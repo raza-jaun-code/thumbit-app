@@ -1,4 +1,4 @@
-ThumbIt Backend
+#ThumbIt Backend
 
 ThumbIt Backend is a secure and high-performance REST API built with Spring Boot to support the ThumbIt mobile application. The backend enables fingerprint-based money transfers, eliminating the need for mobile numbers, bank accounts, or credit cards. It handles user authentication, transaction management, and security, ensuring fast and reliable operations.
 
